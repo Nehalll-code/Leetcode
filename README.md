@@ -15,6 +15,7 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Nehalll-code/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
@@ -24,6 +25,7 @@ HOPE I GET A JOB
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Nehalll-code/Leetcode/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
@@ -45,4 +47,12 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
