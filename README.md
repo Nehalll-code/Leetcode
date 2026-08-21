@@ -11,22 +11,26 @@ HOPE I GET A JOB
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Nehalll-code/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/Nehalll-code/Leetcode/tree/master/1036-rotting-oranges) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Nehalll-code/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Nehalll-code/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Nehalll-code/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Nehalll-code/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/Nehalll-code/Leetcode/tree/master/1036-rotting-oranges) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Nehalll-code/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Nehalll-code/Leetcode/tree/master/1036-rotting-oranges) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Nehalll-code/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +55,7 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Nehalll-code/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
