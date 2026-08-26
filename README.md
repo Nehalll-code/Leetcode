@@ -20,6 +20,7 @@ HOPE I GET A JOB
 | [0207-course-schedule](https://github.com/Nehalll-code/Leetcode/tree/master/0207-course-schedule) |
 | [0419-battleships-in-a-board](https://github.com/Nehalll-code/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Nehalll-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Nehalll-code/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -35,6 +36,7 @@ HOPE I GET A JOB
 | [0130-surrounded-regions](https://github.com/Nehalll-code/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Nehalll-code/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Nehalll-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Nehalll-code/Leetcode/tree/master/1036-rotting-oranges) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Nehalll-code/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
@@ -68,12 +70,22 @@ HOPE I GET A JOB
 | ------- |
 | [0207-course-schedule](https://github.com/Nehalll-code/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Nehalll-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nehalll-code/Leetcode/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/Nehalll-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nehalll-code/Leetcode/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Nehalll-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Nehalll-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
