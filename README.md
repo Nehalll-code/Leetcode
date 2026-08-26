@@ -9,6 +9,7 @@ HOPE I GET A JOB
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0130-surrounded-regions](https://github.com/Nehalll-code/Leetcode/tree/master/0130-surrounded-regions) |
 | [0419-battleships-in-a-board](https://github.com/Nehalll-code/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/Nehalll-code/Leetcode/tree/master/1036-rotting-oranges) |
@@ -42,6 +43,7 @@ HOPE I GET A JOB
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Tree
 |  |
@@ -88,4 +90,16 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Nehalll-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
