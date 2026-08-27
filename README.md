@@ -9,6 +9,7 @@ HOPE I GET A JOB
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nehalll-code/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0130-surrounded-regions](https://github.com/Nehalll-code/Leetcode/tree/master/0130-surrounded-regions) |
 | [0283-move-zeroes](https://github.com/Nehalll-code/Leetcode/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@ HOPE I GET A JOB
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nehalll-code/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Nehalll-code/Leetcode/tree/master/0283-move-zeroes) |
 ## Stack
@@ -104,4 +106,8 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Nehalll-code/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
