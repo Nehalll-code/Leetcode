@@ -14,6 +14,7 @@ HOPE I GET A JOB
 | [0130-surrounded-regions](https://github.com/Nehalll-code/Leetcode/tree/master/0130-surrounded-regions) |
 | [0283-move-zeroes](https://github.com/Nehalll-code/Leetcode/tree/master/0283-move-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/Nehalll-code/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0643-maximum-average-subarray-i](https://github.com/Nehalll-code/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1036-rotting-oranges](https://github.com/Nehalll-code/Leetcode/tree/master/1036-rotting-oranges) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nehalll-code/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Nehalll-code/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -120,4 +121,8 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nehalll-code/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Nehalll-code/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
