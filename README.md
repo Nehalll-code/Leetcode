@@ -105,6 +105,7 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
+| [2470-removing-stars-from-a-string](https://github.com/Nehalll-code/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -125,4 +126,12 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Nehalll-code/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Nehalll-code/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Nehalll-code/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
