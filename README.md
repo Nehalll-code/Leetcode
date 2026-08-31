@@ -20,6 +20,7 @@ HOPE I GET A JOB
 | [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nehalll-code/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nehalll-code/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/Nehalll-code/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Nehalll-code/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
@@ -149,4 +150,5 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/Nehalll-code/Leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
