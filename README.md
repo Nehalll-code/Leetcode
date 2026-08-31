@@ -17,6 +17,7 @@ HOPE I GET A JOB
 | [0643-maximum-average-subarray-i](https://github.com/Nehalll-code/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Nehalll-code/Leetcode/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/Nehalll-code/Leetcode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nehalll-code/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Nehalll-code/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
@@ -57,6 +58,7 @@ HOPE I GET A JOB
 ## Binary Search Tree
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -128,6 +130,7 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Nehalll-code/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nehalll-code/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
 |  |
@@ -139,4 +142,8 @@ HOPE I GET A JOB
 | ------- |
 | [0735-asteroid-collision](https://github.com/Nehalll-code/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Nehalll-code/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
