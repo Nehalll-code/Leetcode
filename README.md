@@ -128,9 +128,11 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Nehalll-code/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nehalll-code/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
 |  |
 | ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nehalll-code/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2470-removing-stars-from-a-string](https://github.com/Nehalll-code/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
