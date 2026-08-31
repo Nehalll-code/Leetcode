@@ -11,6 +11,7 @@ HOPE I GET A JOB
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nehalll-code/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Nehalll-code/Leetcode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Nehalll-code/Leetcode/tree/master/0130-surrounded-regions) |
 | [0283-move-zeroes](https://github.com/Nehalll-code/Leetcode/tree/master/0283-move-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/Nehalll-code/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -106,6 +107,7 @@ HOPE I GET A JOB
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nehalll-code/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Nehalll-code/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Nehalll-code/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Nehalll-code/Leetcode/tree/master/0283-move-zeroes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nehalll-code/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Stack
@@ -129,6 +131,7 @@ HOPE I GET A JOB
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Nehalll-code/Leetcode/tree/master/0075-sort-colors) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nehalll-code/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -153,4 +156,12 @@ HOPE I GET A JOB
 | [0724-find-pivot-index](https://github.com/Nehalll-code/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Nehalll-code/Leetcode/tree/master/1833-find-the-highest-altitude) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nehalll-code/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nehalll-code/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
