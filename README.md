@@ -117,6 +117,7 @@ HOPE I GET A JOB
 | [0075-sort-colors](https://github.com/Nehalll-code/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nehalll-code/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Nehalll-code/Leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Nehalll-code/Leetcode/tree/master/0344-reverse-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nehalll-code/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
@@ -153,6 +154,7 @@ HOPE I GET A JOB
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Nehalll-code/Leetcode/tree/master/0344-reverse-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nehalll-code/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2470-removing-stars-from-a-string](https://github.com/Nehalll-code/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
