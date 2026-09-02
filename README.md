@@ -28,6 +28,7 @@ HOPE I GET A JOB
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Nehalll-code/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Nehalll-code/Leetcode/tree/master/0207-course-schedule) |
 | [0419-battleships-in-a-board](https://github.com/Nehalll-code/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -45,6 +46,7 @@ HOPE I GET A JOB
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Nehalll-code/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Nehalll-code/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Nehalll-code/Leetcode/tree/master/0547-number-of-provinces) |
@@ -60,6 +62,7 @@ HOPE I GET A JOB
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -70,6 +73,7 @@ HOPE I GET A JOB
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
