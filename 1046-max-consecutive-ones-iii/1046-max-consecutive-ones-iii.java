@@ -15,6 +15,7 @@ class Solution {
                 }
                 l++;
             }
+            //valid window
             max = Math.max(max,r-l+1);
         }
         return max;
