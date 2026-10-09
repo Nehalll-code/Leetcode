@@ -22,6 +22,7 @@ HOPE I GET A JOB
 | [0735-asteroid-collision](https://github.com/Nehalll-code/Leetcode/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/Nehalll-code/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nehalll-code/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nehalll-code/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nehalll-code/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Nehalll-code/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -151,6 +152,7 @@ HOPE I GET A JOB
 | [0209-minimum-size-subarray-sum](https://github.com/Nehalll-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Nehalll-code/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nehalll-code/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nehalll-code/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nehalll-code/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
@@ -171,6 +173,7 @@ HOPE I GET A JOB
 | [0209-minimum-size-subarray-sum](https://github.com/Nehalll-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Nehalll-code/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nehalll-code/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Nehalll-code/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Quicksort
 |  |
