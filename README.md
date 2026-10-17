@@ -16,6 +16,7 @@ HOPE I GET A JOB
 | [0088-merge-sorted-array](https://github.com/Nehalll-code/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Nehalll-code/Leetcode/tree/master/0130-surrounded-regions) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nehalll-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Nehalll-code/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nehalll-code/Leetcode/tree/master/0283-move-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/Nehalll-code/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0643-maximum-average-subarray-i](https://github.com/Nehalll-code/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -71,6 +72,7 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nehalll-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Nehalll-code/Leetcode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nehalll-code/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nehalll-code/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -141,6 +143,7 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nehalll-code/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Nehalll-code/Leetcode/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nehalll-code/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -148,6 +151,7 @@ HOPE I GET A JOB
 | [0018-4sum](https://github.com/Nehalll-code/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Nehalll-code/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nehalll-code/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Nehalll-code/Leetcode/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nehalll-code/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -188,4 +192,12 @@ HOPE I GET A JOB
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nehalll-code/Leetcode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nehalll-code/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nehalll-code/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
